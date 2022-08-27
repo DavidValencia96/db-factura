@@ -5,11 +5,11 @@
             "cc": "119441836",
             "name": "Diego Vargas",
             "descripcion": "Credito Vestuario",
-            "cuota": 11900,
-            "iva": 1900,
-            "total": "$ 75.000,00 COP",
-            "max":500000,
-            "min":5000
+            "cuota": 1,
+            "iva": 0,
+            "total": "$ 1,00 COP",
+            "max":1,
+            "min":1
         },
         {
             "id": "0002",
