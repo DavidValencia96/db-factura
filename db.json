@@ -1,0 +1,65 @@
+{
+    "facturas": [{
+            "id": "0001",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vestuario",
+            "cuota": 11900,
+            "iva": 1900,
+            "total": "$ 75.000,00 COP",
+            "max":500000,
+            "min":5000
+        },
+        {
+            "id": "0002",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Libre Inversion",
+            "cuota": 23800,
+            "iva": 3800,
+            "total": "$ 50.000,00 COP",
+            "max":500000,
+            "min":5000
+        },
+        {
+            "id": "0003",
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vivienda",
+            "cuota": 35700,
+            "iva": 5700,
+            "total": "$ 100.000,00 COP",
+            "max":500000,
+            "min":5000
+        },
+        {
+            "id": "0004",
+            "tipo": "CE",
+            "cc": "648095",
+            "name": "Hilda Pino",
+            "descripcion": "Credito Vehiculo",
+            "cuota": 11900,
+            "iva": 1900,
+            "total": "$ 50.000,00 COP",
+            "max":500000,
+            "min":5000
+        },
+        {
+            "id": "0005",
+            "tipo": "CE",
+            "cc": "648095",
+            "name": "Hilda Pino",
+            "descripcion": "Credito Linea Blanca",
+            "cuota": 23800,
+            "iva": 3800,
+            "total": "$ 75.000,00 COP",
+            "max":500000,
+            "min":5000
+        }
+    ]
+}
+
+
